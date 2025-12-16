@@ -4,7 +4,7 @@ langchain-huggingface>=0.1.0
 langchain-ollama>=0.2.0
 langchain-core>=0.2.0
 langchain-text-splitters>=0.3.0
-faiss-cpu>=1.8.0
+faiss-cpu==1.7.4
 pandas>=2.2.0
 streamlit>=1.36.0
 pillow>=10.4.0
