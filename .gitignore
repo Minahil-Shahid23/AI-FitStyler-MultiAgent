@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# Python compiled files
+__pycache__/
+
+# Local analysis outputs (Ignore these temporary files)
+analyzed_photo.jpg
+analyzed_skin_photo.jpg
+app_log.txt
+
+# Local configuration
+.streamlit/
