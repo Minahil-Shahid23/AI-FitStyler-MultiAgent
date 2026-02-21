@@ -61,19 +61,22 @@ Create a `.env` file in the root directory:
 ## 📁 Project Structure
 
 ```text
-ai-fitstyler/
+ai-fitstyler-multiagent/
 ├── app.py                      # Main Streamlit UI & Orchestration
-├── requirements.txt            # Project dependencies
-├── agents/                     # Multi-Agent Logic
-│   ├── body_analyzer.py        # OpenCV Body detection
+├── agents/                     # Specialized AI Agents
+│   ├── body_analyzer.py        # MediaPipe-based body detection
+│   ├── outfit_generator.py     # Logic for creating suggestions
 │   ├── skin_color_analyzer.py  # Skin tone & Palette logic
-│   ├── trend_critic.py         # Gemini AI fashion critique
-│   └── rag_engine.py           # FAISS retrieval logic
-├── data/
-│   ├── outfits.csv             # Curated fashion dataset
-│   └── faiss_index/            # Pre-computed vector embeddings
-└── utils/
-    └── helpers.py              # Image processing utilities
+│   └── trend_critic.py         # Gemini AI fashion critique agent
+├── core/                       # Core AI Logic
+│   └── rag_system.py           # RAG pipeline implementation
+├── data/                       # Dataset Storage
+│   └── catalog.csv             # Curated fashion and outfit data
+├── faiss_index/                # Vector Database Storage
+│   ├── index.faiss             # FAISS binary index
+│   └── index.pkl               # Metadata for FAISS
+├── requirements.txt            # Python dependencies
+└── packages.txt                # System-level dependencies (Debian)
 
 ```
 
