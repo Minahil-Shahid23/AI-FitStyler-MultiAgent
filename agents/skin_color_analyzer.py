@@ -2,19 +2,9 @@ import mediapipe as mp
 import cv2 
 import numpy as np
 
-# --- Smart Import Logic (Local vs Cloud Fix) ---
-try:
+def detect_skin_tone_and_palette(image_path):
     mp_face_mesh = mp.solutions.face_mesh
     mp_drawing = mp.solutions.drawing_utils
-except AttributeError:
-    # Local/Alternative import
-    import mediapipe.python.solutions.face_mesh as mp_face_mesh
-    import mediapipe.python.solutions.drawing_utils as mp_drawing
-
-def detect_skin_tone_and_palette(image_path):
-    """
-    Detect skin tone from face image and return fashion color palette
-    """
     image = cv2.imread(image_path)
     if image is None:
         return "unknown", []
@@ -93,3 +83,4 @@ def detect_skin_tone_and_palette(image_path):
     cv2.imwrite("analyzed_skin_photo.jpg", cv2.cvtColor(annotated_image_rgb, cv2.COLOR_RGB2BGR))
 
     return skin_tone, palette
+
