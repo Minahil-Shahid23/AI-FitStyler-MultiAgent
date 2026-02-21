@@ -1,17 +1,10 @@
-import cv2 
+import cv2
 import mediapipe as mp
 
-# --- Smart Import Logic ---
-try:
-    # Pehle Cloud/Standard tariqa try karein
+def analyze_body_from_photo(image_path):
+    # MediaPipe ko function ke andar initialize karna zyada stable hai
     mp_pose = mp.solutions.pose
     mp_drawing = mp.solutions.drawing_utils
-except AttributeError:
-    # Agar fail ho (jaise aapke local machine par), toh aapka wala rasta use karein
-    import mediapipe.python.solutions.pose as mp_pose
-    import mediapipe.python.solutions.drawing_utils as mp_drawing
-
-def analyze_body_from_photo(image_path):
     image = cv2.imread(image_path)
     if image is None:
         return "unknown"
@@ -51,3 +44,4 @@ def analyze_body_from_photo(image_path):
         cv2.imwrite("analyzed_photo.jpg", cv2.cvtColor(image_rgb, cv2.COLOR_RGB2BGR))
 
         return body_type
+
