@@ -1,8 +1,15 @@
 import cv2 
 import mediapipe as mp
-# DIRECT IMPORTS: System files ko bypass karne ke liye
-import mediapipe.python.solutions.pose as mp_pose
-import mediapipe.python.solutions.drawing_utils as mp_drawing
+
+# --- Smart Import Logic ---
+try:
+    # Pehle Cloud/Standard tariqa try karein
+    mp_pose = mp.solutions.pose
+    mp_drawing = mp.solutions.drawing_utils
+except AttributeError:
+    # Agar fail ho (jaise aapke local machine par), toh aapka wala rasta use karein
+    import mediapipe.python.solutions.pose as mp_pose
+    import mediapipe.python.solutions.drawing_utils as mp_drawing
 
 def analyze_body_from_photo(image_path):
     image = cv2.imread(image_path)
@@ -11,7 +18,7 @@ def analyze_body_from_photo(image_path):
     
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     
-    # mp.solutions.pose ki jagah seedha mp_pose use karein
+    # Pose Detection logic
     with mp_pose.Pose(static_image_mode=True, min_detection_confidence=0.5) as pose:
         results = pose.process(image_rgb)
         
@@ -21,7 +28,7 @@ def analyze_body_from_photo(image_path):
         landmarks = results.pose_landmarks.landmark
         h, w, _ = image.shape
         
-        # Landmarks ki values nikalna
+        # Landmarks ki values (Shoulder and Hip)
         left_shoulder = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER.value]
         right_shoulder = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER.value]
         shoulder_width = abs(left_shoulder.x * w - right_shoulder.x * w)
@@ -30,7 +37,7 @@ def analyze_body_from_photo(image_path):
         right_hip = landmarks[mp_pose.PoseLandmark.RIGHT_HIP.value]
         hip_width = abs(left_hip.x * w - right_hip.x * w)
                 
-        # Body type logic
+        # Body type calculation
         ratio = (hip_width / shoulder_width)
         if ratio <= 0.75:
             body_type = "slim"
@@ -39,8 +46,8 @@ def analyze_body_from_photo(image_path):
         else:
             body_type = "athletic"
         
-        # Drawing logic using direct imports
+        # Drawing landmarks on image
         mp_drawing.draw_landmarks(image_rgb, results.pose_landmarks, mp_pose.POSE_CONNECTIONS)
         cv2.imwrite("analyzed_photo.jpg", cv2.cvtColor(image_rgb, cv2.COLOR_RGB2BGR))
-        
+
         return body_type
