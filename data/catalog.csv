@@ -1,0 +1,49 @@
+outfit_name,price,image_url,description,body_type,occasion,gender
+Red Cotton Shirt,25,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLukpB-b6MxrLHvQAHANDqIU6uWUfxJLWQQ&s,Soft red cotton shirt with button front for casual days,slim,casual,male
+Slim Fit T-Shirt,18,https://cdn.shopify.com/s/files/1/1529/1475/products/helikon-slim-fit-t-shirt-coyote-front_400x400.jpg?v=1628000525,Basic slim fit grey t-shirt for everyday wear,slim,casual,other
+Beige Slim Chinos,32,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafgYQVi782cEmGoFJszewcGPGV77zut5w-Q&s,Light beige slim chinos pants for office legs,slim,office,male
+White Slim Polo,22,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskB4zh7adbgoTjQ4aQrQNrKYuCE3gScyHbw&s,Crisp white slim polo shirt for athletic build,slim,casual,male
+Black Slim Leather Jacket,80,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YHDtcdKguaYrBAfEj_-AaOabNQb9f8x-oQ&s,Black slim leather jacket for cool party vibe,slim,party,male
+Grey Slim Blazer,60,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYJSXwVS4-gUNT_4tt7GxEe37GgV8tJ05_Q&s,Tailored grey slim blazer for professional office look,slim,office,male
+Blue Slim Button-Down,30,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHFUdtKsPEhV7V8Ao68oO2nRsmeA5fcERixw&s,Blue slim button-down shirt for casual frame,slim,casual,male
+Slim Fit Cargo Shorts,25,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItIzFyc2Q_Y2Iq07NDfhn0OLPfulo5KwR2A&s,Khaki slim cargo shorts for summer style,slim,casual,male
+Slim V-Neck Sweater,35,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsI7z3JwRw4uLOJ9T9CAPOxdDXcacKjwrCiA&s,Black slim v-neck sweater for winter office,slim,office,other
+Slim Track Jacket,40,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmI2qcHJZlpdb9HwnVP-BGWBUNHjz-N64tkQ&s,Blue slim track jacket for active party wear,slim,party,male
+Black A-Line Dress,50,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHDavoaUCeYn66DIjfAfBa2EPg30YosaWGA&s,Black a-line dress with flare for curves,curvy,party,female
+Floral Maxi Skirt,40,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gjjYRc1vriEcbFxOmHHxNMkaFJlR1yiX3w&s,Flowy floral maxi skirt for curvy summer,curvy,party,female
+Pink Chiffon Blouse,28,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYoFDScK1ELfb66e9yb-WS1ZtgTz08SMq_UA&s,Pink chiffon blouse with sleeves for curvy casual,curvy,casual,female
+Yellow Sundress,45,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NgdkB79YFjimkXeeRPTAJlvkiqNcehh11w&s,Yellow sundress with straps for curvy beach,curvy,party,female
+Purple Oversized Hoodie,38,https://img01.ztat.net/article/spp-media-p1/e5214337115e4fbfbd71bb75905d4864/8ae17b5d4c9a415a96dea951633fbbe7.jpg?imwidth=1800&filter=packshot,Purple oversized hoodie for curvy comfort casual,curvy,casual,female
+Red Maxi Dress,55,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTvArqHbO_QQntHKmUjJmbIO4TioPELsqaNQ&s,Red maxi dress with flowy hem for curvy events,curvy,party,female
+White Crop Top,18,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFX2YYtOqLSw3LeRP_TAnCyUQX37uzx9iFrA&s,White crop top with tie for curvy summer,curvy,casual,female
+Floral Wrap Blouse,32,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ6JJdMZjbeiK8AO2Eypec9xtyOXuFScR1A&s,Floral wrap blouse for curvy spring events,curvy,party,female
+Curvy Fit Wrap Dress,48,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_LLd14kEb56pjnlBlHdaIPdFX7zgbZD45Q&s,Curvy fit wrap dress with belt,curvy,party,female
+Delicate Lace Top,26,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREg2xInKYs3onP0Y5pGhbpthYxBg4ZbavApw&s,Delicate white lace top for curvy evenings,curvy,casual,female
+Sporty Polo Dress,42,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqI8TYhhlpaG3gqkZZgn4Xa07JizSjUloedg&s,Sporty blue polo dress for curvy daytime,curvy,party,other
+Blue Denim Jeans,35,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsji91sLiIhh3scDHp8pWIAmXpKGOnCHxWQ&s,Blue denim jeans with rips for athletic casual,athletic,casual,male
+Green Cargo Pants,30,https://www.filson.com/cdn/shop/files/0ee382ade3cec61b0bffb155cedf306006dd2b5a43eddbef5106cd2e5b4c01b0.png?v=1763759509&width=1946,Green cargo pants with multiple pockets,athletic,casual,male
+Black Leather Jacket,80,https://media.gq-magazine.co.uk/photos/67ab64403ffd63180649d9c9/3:4/w_748%2Cc_limit/Leather-jackets-Gucci.jpg,Black leather jacket with studs,athletic,party,male
+Navy Polo Shirt,22,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNRYGnnMrdrDfHZE-SjFH7w84YXIBOBmFR0g&s,Navy polo shirt with collar,athletic,casual,male
+Brown Leather Loafers,55,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xQJrRsYltfdl3uFwoIac19CiyynLwEvtRg&s,Brown loafers with tassels,athletic,office,male
+Stylish Sports Jacket,65,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXPXF6x7mJWEIr_UStTEbRan0ipycAlcQnA&s,Stylish navy sports jacket,athletic,office,male
+Comfortable Track Pants,22,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs2TRuoCW7HGzervhWGYh8i3wRaGpGMJvldg&s,Grey track pants with drawstring,athletic,casual,male
+Utility Cargo Jacket,38,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Vemwb38sfKTTSybdu4EvFvsk8QNOyaHOsA&s,Utility green cargo jacket,athletic,party,male
+Comfortable White Sneakers,20,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjk6OIc2oJMCUbyWCAlZ4nv8PEmV5aL4aiXg&s,White sneakers with laces,slim,office,other
+Cozy Grey Hoodie,28,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMwflOIMSJwiDDHXXujQHpjeHzYOOyNTIvg&s,Grey hoodie with hood up,athletic,casual,other
+Basic White T-Shirt,15,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7nWKZI6UPOFycPFGVet37euaj-ZqeDlb9w&s,White t-shirt with print,slim,office,other
+Slim V-Neck Sweater,35,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQYz2MnYiqxJ_P1Hfw2v6vOxJseotiFLHVQ&s,V-neck blue sweater,slim,office,other
+Casual Denim Jacket,40,https://tabanioutlet.pk/cdn/shop/files/black_denim_acket.webp?v=1757833280,Light wash denim jacket,slim,casual,other
+Gucci Designer Jacket,900,https://img4.dhresource.com/webp/m/0x0/f3/albu/km/g/05/990f0049-896d-402c-88fd-680f6b8880bc.jpg,Luxury Gucci leather jacket for elite party,slim,party,male
+Versace Silk Shirt,150,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLHyZKHzYRzRofI_5p_lPWd1pGVUJTwFFtw&s,Silk Versace shirt for sophisticated office,slim,office,male
+Prada Slim Pants,200,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwCQhG_8McyseHTqqavyryjv5NiCqnYfttA&s,Prada slim wool pants for high-end casual,slim,casual,male
+Dior Curvy Dress,300,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypWw4-e-uJDOeD4GXwhvIvzGBOUMxTvUnRw&s,Dior curvy evening dress for luxury party,curvy,party,female
+Chanel Blouse,250,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKiOFWaHI-z7bM_a9gJDxqnAY2AuWkzIvaqQ&s,Chanel tweed blouse for curvy elegant casual,curvy,casual,female
+Louis Vuitton Hoodie,400,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPK9qWzr-_4euGvOTSGyXE29nRPSAPezAr0w&s,Louis Vuitton monogram hoodie for curvy street style,curvy,casual,female
+Rolex Watch Accessory,800,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvA81hRj8lbxtDGxRp63voEZLlqMLfLyBoqQ&s,Luxury Rolex watch for athletic office look,athletic,office,other
+Nike Athletic Shoes,120,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt5ftIzZuoxbONVs5ucPlTWjkBGfYDOxfuw&s,Nike running shoes for athletic casual,athletic,casual,male
+Adidas Track Suit,150,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcxo1ad_6tjCLCxq1B36jN-Pto6YCtD7S5g&s,Adidas full track suit for athletic party,athletic,party,male
+Supreme Hoodie,180,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR66dwXDndbqkdxR2OxLg6-ZkYnMM0mr9W_g&s,Supreme box logo hoodie for athletic casual,athletic,casual,other
+Balenciaga Sneakers,450,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaoYxi72fgBfg3yhMUorQIvlWiadjCrzqJAw&s,Balenciaga triple S sneakers for slim office,slim,office,other
+Fendi Bag Accessory,600,https://static.fendi.com/dam/is/image/fendi/8AV916ARNYF1OQX_02?wid=1000&hei=1000&hash=1f3adbeabdb77b495113db979fe1ffcc-18d3e4a6881,Fendi handbag for curvy party accessory,curvy,party,female
+Hermes Scarf,350,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxpY2S5hYHE_UfYD-FNF_aS3DowDWhM9Y7MQ&s,Hermes silk scarf for slim elegant casual,slim,casual,female
+Cartier Bracelet,700,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIJYl1Sa67_pFxni_HlkBnMR2TzuHM-9_HA&s,Cartier love bracelet for athletic office,athletic,office,male

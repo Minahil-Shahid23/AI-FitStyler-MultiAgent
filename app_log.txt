@@ -1,0 +1,281 @@
+2025-12-15 18:09:56,996 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:09:57,030 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$50
+2025-12-15 18:09:57,067 - INFO - Manual body type selected: slim
+2025-12-15 18:09:57,123 - INFO - App session ended
+2025-12-15 18:09:57,696 - WARNING - From G:\fitstyler\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-12-15 18:10:07,667 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:10:07,678 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$50
+2025-12-15 18:10:07,691 - INFO - Photo uploaded – starting analysis
+2025-12-15 18:10:08,995 - INFO - Body type detected: athletic
+2025-12-15 18:10:09,922 - INFO - Skin tone detected: fair, Palette length: 6
+2025-12-15 18:10:10,118 - INFO - Temp photo cleaned up
+2025-12-15 18:10:10,123 - INFO - App session ended
+2025-12-15 18:10:20,256 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:10:20,262 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$50
+2025-12-15 18:10:20,270 - INFO - Photo uploaded – starting analysis
+2025-12-15 18:10:21,092 - INFO - Body type detected: athletic
+2025-12-15 18:10:21,258 - INFO - Skin tone detected: fair, Palette length: 6
+2025-12-15 18:10:21,498 - INFO - Temp photo cleaned up
+2025-12-15 18:10:21,505 - INFO - Outfit suggestions button clicked
+2025-12-15 18:10:22,856 - INFO - Generating outfit suggestions...
+2025-12-15 18:10:22,865 - INFO - Loading faiss with AVX2 support.
+2025-12-15 18:10:22,959 - INFO - Successfully loaded faiss with AVX2 support.
+2025-12-15 18:10:23,055 - INFO - Polished suggestions generated: 10
+2025-12-15 18:10:23,055 - INFO - Trend critique done: 10 suggestions
+2025-12-15 18:10:23,056 - INFO - Filtered suggestions: 4
+2025-12-15 18:10:23,057 - INFO - Showing 3 outfits to user
+2025-12-15 18:10:26,670 - INFO - App session ended
+2025-12-15 18:11:07,917 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:11:07,966 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$50
+2025-12-15 18:11:07,970 - INFO - Cache cleared by user
+2025-12-15 18:11:08,164 - INFO - Photo uploaded – starting analysis
+2025-12-15 18:11:09,350 - INFO - Body type detected: athletic
+2025-12-15 18:11:09,541 - INFO - Skin tone detected: fair, Palette length: 6
+2025-12-15 18:11:09,730 - INFO - Temp photo cleaned up
+2025-12-15 18:11:09,737 - INFO - App session ended
+2025-12-15 18:11:19,127 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:11:19,226 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$50
+2025-12-15 18:11:19,372 - INFO - Manual body type selected: slim
+2025-12-15 18:11:19,434 - INFO - App session ended
+2025-12-15 18:11:29,428 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:11:29,437 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$48
+2025-12-15 18:11:29,618 - INFO - Manual body type selected: slim
+2025-12-15 18:11:29,648 - INFO - App session ended
+2025-12-15 18:11:31,911 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:11:31,922 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$483
+2025-12-15 18:11:31,930 - INFO - Manual body type selected: slim
+2025-12-15 18:11:31,934 - INFO - App session ended
+2025-12-15 18:11:43,020 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:11:43,028 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$483
+2025-12-15 18:11:43,036 - INFO - Manual body type selected: slim
+2025-12-15 18:11:43,039 - INFO - Outfit suggestions button clicked
+2025-12-15 18:11:44,532 - INFO - Generating outfit suggestions...
+2025-12-15 18:11:44,568 - INFO - Polished suggestions generated: 10
+2025-12-15 18:11:44,570 - INFO - Trend critique done: 10 suggestions
+2025-12-15 18:11:44,573 - INFO - Filtered suggestions: 7
+2025-12-15 18:11:44,576 - INFO - Showing 3 outfits to user
+2025-12-15 18:11:48,388 - INFO - App session ended
+2025-12-15 18:13:10,187 - INFO - Use pytorch device_name: cpu
+2025-12-15 18:13:10,188 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-12-15 18:13:16,615 - INFO - Use pytorch device_name: cpu
+2025-12-15 18:13:16,615 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-12-15 18:13:21,527 - INFO - App started – AI-FitStyler loading...
+2025-12-15 18:13:21,535 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$483
+2025-12-15 18:13:21,586 - INFO - Manual body type selected: slim
+2025-12-15 18:13:21,625 - INFO - Outfit suggestions button clicked
+2025-12-15 18:13:22,935 - INFO - Generating outfit suggestions...
+2025-12-15 18:13:23,024 - INFO - Polished suggestions generated: 10
+2025-12-15 18:13:23,025 - INFO - Trend critique done: 10 suggestions
+2025-12-15 18:13:23,028 - INFO - Filtered suggestions: 7
+2025-12-15 18:13:23,029 - INFO - Showing 3 outfits to user
+2025-12-15 18:13:27,293 - INFO - App session ended
+2026-02-21 12:55:09,819 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:55:09,845 - INFO - User inputs: Gender=male, Occasion=casual, Budget=$50
+2026-02-21 12:55:09,875 - INFO - Manual body type selected: slim
+2026-02-21 12:55:09,899 - INFO - App session ended
+2026-02-21 12:55:25,493 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:55:25,510 - INFO - User inputs: Gender=female, Occasion=casual, Budget=$50
+2026-02-21 12:55:25,526 - INFO - Manual body type selected: slim
+2026-02-21 12:55:25,534 - INFO - App session ended
+2026-02-21 12:55:28,226 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:55:28,251 - INFO - User inputs: Gender=female, Occasion=party, Budget=$50
+2026-02-21 12:55:28,259 - INFO - Manual body type selected: slim
+2026-02-21 12:55:28,267 - INFO - App session ended
+2026-02-21 12:55:33,368 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:55:33,384 - INFO - User inputs: Gender=female, Occasion=party, Budget=$50
+2026-02-21 12:55:33,394 - INFO - Manual body type selected: slim
+2026-02-21 12:55:33,400 - INFO - App session ended
+2026-02-21 12:55:51,212 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:55:51,228 - INFO - User inputs: Gender=female, Occasion=party, Budget=$50
+2026-02-21 12:55:51,232 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:55:52,013 - INFO - Body type detected: slim
+2026-02-21 12:55:52,570 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:55:52,794 - INFO - Temp photo cleaned up
+2026-02-21 12:55:52,805 - INFO - App session ended
+2026-02-21 12:55:59,780 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:55:59,797 - INFO - User inputs: Gender=female, Occasion=party, Budget=$50
+2026-02-21 12:55:59,805 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:00,383 - INFO - Body type detected: slim
+2026-02-21 12:56:00,563 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:56:00,678 - INFO - Temp photo cleaned up
+2026-02-21 12:56:00,686 - INFO - Outfit suggestions button clicked
+2026-02-21 12:56:02,079 - INFO - Generating outfit suggestions...
+2026-02-21 12:56:02,092 - INFO - Loading faiss with AVX2 support.
+2026-02-21 12:56:02,247 - INFO - Successfully loaded faiss with AVX2 support.
+2026-02-21 12:56:02,796 - INFO - Polished suggestions generated: 10
+2026-02-21 12:56:02,796 - INFO - Trend critique done: 10 suggestions
+2026-02-21 12:56:02,796 - INFO - Filtered suggestions: 0
+2026-02-21 12:56:02,804 - WARNING - No outfits available – showing warning
+2026-02-21 12:56:02,804 - INFO - App session ended
+2026-02-21 12:56:07,088 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:07,096 - INFO - User inputs: Gender=female, Occasion=party, Budget=$49
+2026-02-21 12:56:07,104 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:07,417 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:07,438 - INFO - User inputs: Gender=female, Occasion=party, Budget=$48
+2026-02-21 12:56:07,446 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:07,606 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:07,618 - INFO - User inputs: Gender=female, Occasion=party, Budget=$47
+2026-02-21 12:56:07,679 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:07,869 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:07,963 - INFO - Body type detected: slim
+2026-02-21 12:56:07,970 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:08,798 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:08,822 - INFO - User inputs: Gender=female, Occasion=party, Budget=$44
+2026-02-21 12:56:08,854 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:08,862 - INFO - Body type detected: slim
+2026-02-21 12:56:08,874 - INFO - Body type detected: slim
+2026-02-21 12:56:09,972 - INFO - Body type detected: slim
+2026-02-21 12:56:10,178 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:56:10,303 - INFO - Temp photo cleaned up
+2026-02-21 12:56:10,311 - INFO - App session ended
+2026-02-21 12:56:12,117 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:12,130 - INFO - User inputs: Gender=female, Occasion=party, Budget=$44
+2026-02-21 12:56:12,146 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:12,722 - INFO - Body type detected: slim
+2026-02-21 12:56:12,880 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:56:12,988 - INFO - Temp photo cleaned up
+2026-02-21 12:56:13,004 - INFO - Outfit suggestions button clicked
+2026-02-21 12:56:14,372 - INFO - Generating outfit suggestions...
+2026-02-21 12:56:14,416 - INFO - Polished suggestions generated: 10
+2026-02-21 12:56:14,416 - INFO - Trend critique done: 10 suggestions
+2026-02-21 12:56:14,430 - INFO - Filtered suggestions: 0
+2026-02-21 12:56:14,430 - WARNING - No outfits available – showing warning
+2026-02-21 12:56:14,439 - INFO - App session ended
+2026-02-21 12:56:21,532 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:21,548 - INFO - User inputs: Gender=female, Occasion=party, Budget=$43
+2026-02-21 12:56:21,556 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:21,689 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:21,705 - INFO - User inputs: Gender=female, Occasion=party, Budget=$42
+2026-02-21 12:56:21,721 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:21,887 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:21,903 - INFO - User inputs: Gender=female, Occasion=party, Budget=$41
+2026-02-21 12:56:21,943 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:22,031 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:22,095 - INFO - User inputs: Gender=female, Occasion=party, Budget=$40
+2026-02-21 12:56:22,135 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:23,378 - INFO - Body type detected: slim
+2026-02-21 12:56:23,968 - INFO - Body type detected: slim
+2026-02-21 12:56:23,976 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:23,984 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:25,800 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:26,318 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:26,907 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:27,681 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:27,932 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:27,964 - INFO - Body type detected: slim
+2026-02-21 12:56:27,964 - INFO - User inputs: Gender=female, Occasion=party, Budget=$22
+2026-02-21 12:56:27,972 - INFO - Body type detected: slim
+2026-02-21 12:56:28,256 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:29,082 - INFO - Body type detected: slim
+2026-02-21 12:56:29,289 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:56:29,403 - INFO - Temp photo cleaned up
+2026-02-21 12:56:29,415 - INFO - App session ended
+2026-02-21 12:56:31,519 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:56:31,527 - INFO - User inputs: Gender=female, Occasion=party, Budget=$22
+2026-02-21 12:56:31,543 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:56:32,100 - INFO - Body type detected: slim
+2026-02-21 12:56:32,282 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:56:32,399 - INFO - Temp photo cleaned up
+2026-02-21 12:56:32,407 - INFO - Outfit suggestions button clicked
+2026-02-21 12:56:33,801 - INFO - Generating outfit suggestions...
+2026-02-21 12:56:33,839 - INFO - Polished suggestions generated: 10
+2026-02-21 12:56:33,839 - INFO - Trend critique done: 10 suggestions
+2026-02-21 12:56:33,847 - INFO - Filtered suggestions: 0
+2026-02-21 12:56:33,849 - WARNING - No outfits available – showing warning
+2026-02-21 12:56:33,853 - INFO - App session ended
+2026-02-21 12:58:17,825 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:17,840 - INFO - User inputs: Gender=female, Occasion=party, Budget=$23
+2026-02-21 12:58:17,856 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:58:18,007 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:18,044 - INFO - User inputs: Gender=female, Occasion=party, Budget=$24
+2026-02-21 12:58:18,061 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:58:18,214 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:18,245 - INFO - User inputs: Gender=female, Occasion=party, Budget=$25
+2026-02-21 12:58:18,265 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:58:18,359 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:18,389 - INFO - User inputs: Gender=female, Occasion=party, Budget=$26
+2026-02-21 12:58:18,433 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:58:18,608 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:19,315 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:20,308 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:20,806 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:20,822 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:21,607 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:21,907 - INFO - Body type detected: slim
+2026-02-21 12:58:22,465 - INFO - Body type detected: slim
+2026-02-21 12:58:22,748 - INFO - Body type detected: slim
+2026-02-21 12:58:22,757 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:22,757 - INFO - Body type detected: slim
+2026-02-21 12:58:23,488 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:23,497 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:24,265 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:25,367 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:25,367 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:25,367 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:26,841 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:27,631 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:27,631 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:27,962 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:28,241 - INFO - User inputs: Gender=female, Occasion=party, Budget=$56
+2026-02-21 12:58:28,272 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:58:28,959 - INFO - Body type detected: slim
+2026-02-21 12:58:29,294 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:58:29,408 - INFO - Temp photo cleaned up
+2026-02-21 12:58:29,416 - INFO - App session ended
+2026-02-21 12:58:31,458 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:58:31,466 - INFO - User inputs: Gender=female, Occasion=party, Budget=$56
+2026-02-21 12:58:31,482 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:58:32,061 - INFO - Body type detected: slim
+2026-02-21 12:58:32,273 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:58:32,382 - INFO - Temp photo cleaned up
+2026-02-21 12:58:32,397 - INFO - Outfit suggestions button clicked
+2026-02-21 12:58:33,798 - INFO - Generating outfit suggestions...
+2026-02-21 12:58:33,886 - INFO - Polished suggestions generated: 10
+2026-02-21 12:58:33,887 - INFO - Trend critique done: 10 suggestions
+2026-02-21 12:58:33,908 - INFO - Filtered suggestions: 1
+2026-02-21 12:58:33,916 - INFO - Showing 1 outfits to user
+2026-02-21 12:58:35,153 - INFO - App session ended
+2026-02-21 12:59:04,444 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:04,450 - INFO - User inputs: Gender=female, Occasion=party, Budget=$56
+2026-02-21 12:59:04,458 - INFO - Cache cleared by user
+2026-02-21 12:59:04,477 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:05,068 - INFO - Body type detected: slim
+2026-02-21 12:59:05,295 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:59:05,411 - INFO - Temp photo cleaned up
+2026-02-21 12:59:05,419 - INFO - App session ended
+2026-02-21 12:59:18,329 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:18,345 - INFO - User inputs: Gender=female, Occasion=party, Budget=$57
+2026-02-21 12:59:18,361 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:18,511 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:18,562 - INFO - User inputs: Gender=female, Occasion=party, Budget=$58
+2026-02-21 12:59:18,586 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:18,669 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:18,687 - INFO - User inputs: Gender=female, Occasion=party, Budget=$59
+2026-02-21 12:59:18,705 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:19,040 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:19,064 - INFO - User inputs: Gender=female, Occasion=party, Budget=$60
+2026-02-21 12:59:19,144 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:19,408 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:19,432 - INFO - User inputs: Gender=female, Occasion=party, Budget=$61
+2026-02-21 12:59:20,060 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:20,080 - INFO - User inputs: Gender=female, Occasion=party, Budget=$62
+2026-02-21 12:59:20,152 - INFO - Body type detected: slim
+2026-02-21 12:59:20,200 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:20,216 - INFO - Body type detected: slim
+2026-02-21 12:59:20,224 - INFO - Body type detected: slim
+2026-02-21 12:59:21,194 - INFO - App started – AI-FitStyler loading...
+2026-02-21 12:59:21,229 - INFO - User inputs: Gender=female, Occasion=party, Budget=$62
+2026-02-21 12:59:21,256 - INFO - Body type detected: slim
+2026-02-21 12:59:21,279 - INFO - Photo uploaded – starting analysis
+2026-02-21 12:59:21,886 - INFO - Body type detected: slim
+2026-02-21 12:59:22,505 - INFO - Body type detected: slim
+2026-02-21 12:59:22,695 - INFO - Skin tone detected: fair, Palette length: 6
+2026-02-21 12:59:22,811 - INFO - Temp photo cleaned up
+2026-02-21 12:59:22,819 - INFO - Outfit suggestions button clicked
+2026-02-21 12:59:24,270 - INFO - Generating outfit suggestions...
+2026-02-21 12:59:24,320 - INFO - Polished suggestions generated: 10
+2026-02-21 12:59:24,320 - INFO - Trend critique done: 10 suggestions
+2026-02-21 12:59:24,325 - INFO - Filtered suggestions: 0
+2026-02-21 12:59:24,326 - WARNING - No outfits available – showing warning
+2026-02-21 12:59:24,330 - INFO - App session ended
