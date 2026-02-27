@@ -1,0 +1,15 @@
+name: Keep Streamlit App Alive
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:     
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Ping Request
+        run: |
+          curl -s https://ai-fitstyler-multiagent.streamlit.app/ > /dev/null
+          echo "App pinged to prevent sleep mode!"
