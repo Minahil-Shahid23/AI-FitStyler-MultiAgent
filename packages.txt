@@ -1,2 +1,0 @@
-libglabels-dev
-libgl1-mesa-glx
